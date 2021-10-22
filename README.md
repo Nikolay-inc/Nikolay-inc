@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikolay-inc
+- 👋 Hi, I’m Nikolay and I’m from Ukraine, Kiev 
 - 👀 I’m interested in Javascript and React
 - 🌱 I’m currently learning some new features depends on React
 - 💞️ I’m looking to collaborate on ...

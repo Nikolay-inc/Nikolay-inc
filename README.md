@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nikolay and I’m from Ukraine, Kiev 
 - 👀 I’m interested in Javascript and React
 - 🌱 I’m currently learning some new features depends on React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on some new coders
 
 <!---
 Nikolay-inc/Nikolay-inc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
